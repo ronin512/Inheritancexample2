@@ -1,5 +1,5 @@
 using System; // Import the System namespace for console input and output.
-
+//Is an example in C#
 namespace Inheritance2
 {
     // Define the base class 'Airplane'.
